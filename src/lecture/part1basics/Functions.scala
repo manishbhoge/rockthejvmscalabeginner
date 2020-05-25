@@ -42,7 +42,7 @@ object Functions extends App {
  println(aFibonacci(8))
 
   // lecture.part1basics Excercise Prime Number Function
-  def aPrime(n: Int): Boolean = {
-    
-  }
+  /*def aPrime(n: Int): Boolean = {
+
+  }*/
 }
